@@ -115,7 +115,7 @@ cout << "Nilai 2 : " << b << endl;
 return 0;
 }
 ```
-![ss2](https://raw.githubusercontent.com/Amirul29/praktikum6/master/latihan2/21.png)
+![ss2](https://github.com/raihan11/Praktikum6/blob/master/latihan2/21.png)
 
 ##latihan2.2
 
