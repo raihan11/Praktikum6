@@ -78,7 +78,7 @@ int inputData(string v)
 ```
 
 ![sss](https://github.com/raihan11/Praktikum6/blob/master/latihan1/1.png)
-![flow](
+![flow](https://github.com/raihan11/Praktikum6/blob/master/latihan1/Latihan1.jpg)
 
 
 ##latihan2.1
@@ -116,7 +116,7 @@ return 0;
 }
 ```
 ![ss2](https://github.com/raihan11/Praktikum6/blob/master/latihan2/21.png)
-
+![flow] (https://github.com/raihan11/Praktikum6/blob/master/latihan2/Latihan21.jpg)
 ##latihan2.2
 
 **Alur Algoritma**
@@ -152,4 +152,4 @@ main(){
 }
 ```
 ![ss2](https://github.com/raihan11/Praktikum6/blob/master/latihan2/22.png)
-![flow](
+![flow](https://github.com/raihan11/Praktikum6/blob/master/latihan2/Latihan22.jpg)
