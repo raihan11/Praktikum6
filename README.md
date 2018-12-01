@@ -117,6 +117,7 @@ return 0;
 ```
 ![ss2](https://github.com/raihan11/Praktikum6/blob/master/latihan2/21.png)
 ![flow] (https://github.com/raihan11/Praktikum6/blob/master/latihan2/Latihan21.jpg)
+
 ##latihan2.2
 
 **Alur Algoritma**
